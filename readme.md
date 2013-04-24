@@ -1,4 +1,4 @@
-Leis federais alemães e regulamentos
+CONSTITUIÇÃO DA REPÚBLICA FEDERATIVA DO BRASIL
 =====
 
-Este repositório Git contém todas as leis e regulamentos federais alemães em formato Markdown. Servir como fonte das versões XML das leis da www.gesetze-in-internet.de.
+Este repositório Git contém toda a Constituição da República Federativa do Brasil.
