@@ -2,6 +2,7 @@ TÍTULO I
 ============
 Dos Princípios Fundamentais
 
+
 Art. 1º A República Federativa do Brasil, formada pela união indissolúvel dos Estados e Municípios e do Distrito Federal, constitui-se em Estado Democrático de Direito e tem como fundamentos:
 
 I - a soberania;
